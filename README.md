@@ -1,6 +1,6 @@
 ### Benchmarks 
-Base - 92% test accuracy \
-VGG11 - 99.98% on training set, 94.33 on test
+Base - 92% accuracy on test set  \
+VGG11 - 99.98% accuracy on training set, 94.33% accuracy on test set
 
 
 https://github.com/zalandoresearch/fashion-mnist#benchmark
